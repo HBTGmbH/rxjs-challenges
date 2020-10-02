@@ -7,10 +7,12 @@ A collection of 11 small rx-js challenges. You can use them to...
 The challenges are based on a very simply angular application. More detailed instructions
 are available once you run the application.
 
-1. ``npm install``
-2. ``npm run start``
-3. Open your browser on ``http://localhost:4200``
-3. Follow the instruction on the page
+1. ``git clone https://github.com/HBTGmbH/rxjs-challenges.git`` (HTTPS) or ``git clone git@github.com:HBTGmbH/rxjs-challenges.git`` (SSH)
+2. ``cd rxjs-challenges``
+3. ``npm install``
+4. ``npm run start``
+5. Open your browser on ``http://localhost:4200``
+6. Follow the instruction on the page
 
 # Request a review
 If you want, you can request a review. Simply create a pull request for your changes,
